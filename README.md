@@ -68,15 +68,15 @@ Modern blogging platform with:
 
 ## 🌐 Portfolio
 
-👉 YOUR_PORTFOLIO_LINK
+👉 Portfolio link: https://portfolio-h5k5.vercel.app
 
 ---
 
 ## 📬 Let's Connect
 
-* LinkedIn: YOUR_LINK
-* Fiverr: YOUR_PROFILE_LINK
-* Email: YOUR_EMAIL
+* LinkedIn: https://www.linkedin.com/in/bishwajit-paul-905410105
+* Fiverr: https://www.fiverr.com/s/7Ye4PDW
+* Email: paul.bishwajit09@gmail.com
 
 ---
 
