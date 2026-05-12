@@ -1,26 +1,83 @@
-# Hi, I'm Bishwajit Paul 👋
+# 👋 Hi, I'm Bishwajit Paul
 
-Full-stack MERN developer focused on scalable web applications, admin dashboards, authentication systems, and debugging.
+🚀 Full-Stack MERN Developer | ⚡ Web Applications | 🧩 Admin Dashboards | 🛠️ Bug Fixing Specialist
 
-## Featured Projects
+---
 
-### Nova Cart
+## 💭 About Me
 
-Full-stack e-commerce platform with admin dashboard, authentication system, and responsive UI.
+I am a Full-Stack Developer focused on building real-world web applications using the MERN stack.
 
-### Blog Mongoose
+I specialize in:
 
-Modern MERN blogging platform with comments, bookmarks, filtering, and admin moderation.
+* Scalable web applications
+* Admin dashboards
+* Authentication systems
+* API development & debugging
+* Full-stack problem solving
 
-## Tech Stack
+My goal is to build clean, production-ready systems that solve real business problems.
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Nova Cart
+
+Full-stack e-commerce platform built with MERN stack featuring:
+
+* User authentication
+* Admin dashboard
+* Product & order management
+* Responsive UI
+
+### 📝 Blog Mongoose
+
+Modern blogging platform with:
+
+* Authentication system
+* Post creation & management
+* Comments & bookmarks
+* Category filtering
+* Admin moderation features
+
+---
+
+## 🧰 Tech Stack
 
 * React.js
 * Node.js
 * Express.js
 * MongoDB
-* Tailwind CSS
 * JWT Authentication
+* REST APIs
+* Tailwind CSS
 
-## Portfolio
+---
 
-My Portfolio: https://portfolio-h5k5.vercel.app
+## 💼 What I Can Help You With
+
+✔ MERN stack web applications
+✔ Bug fixing & debugging
+✔ API development & integration
+✔ Authentication systems
+✔ Admin dashboards
+✔ Full-stack SaaS-style applications
+
+---
+
+## 🌐 Portfolio
+
+👉 YOUR_PORTFOLIO_LINK
+
+---
+
+## 📬 Let's Connect
+
+* LinkedIn: YOUR_LINK
+* Fiverr: YOUR_PROFILE_LINK
+* Email: YOUR_EMAIL
+
+---
+
+⭐ *“Clean code, real solutions, production-ready systems.”*
