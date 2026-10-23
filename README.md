@@ -1,82 +1,96 @@
 # 👋 Hi, I'm Bishwajit Paul
 
-🚀 Full-Stack MERN Developer | ⚡ Web Applications | 🧩 Admin Dashboards | 🛠️ Bug Fixing Specialist
+**Full-Stack MERN Developer | Backend Development | REST APIs | TypeScript**
 
----
+I build practical web applications with React, Node.js, Express.js, and MongoDB, focusing on maintainable architecture, authentication, API development, and problem-solving.
 
-## 💭 About Me
-
-I am a Full-Stack Developer focused on building real-world web applications using the MERN stack.
-
-I specialize in:
-
-* Scalable web applications
-* Admin dashboards
-* Authentication systems
-* API development & debugging
-* Full-stack problem solving
-
-My goal is to build clean, production-ready systems that solve real business problems.
-
----
+I'm interested in full-time, remote, and freelance opportunities where I can contribute to real software projects and grow as a developer.
 
 ## 🚀 Featured Projects
 
+### 🧩 [Nova Panel](https://github.com/bishwajit1965/nova-panel)
+**A reusable modular MERN application foundation**
+
+- Authentication with JWT and refresh tokens
+- Role-based access control and permissions
+- Reusable CRUD architecture
+- User, role, and permission management
+- File uploads, notifications, and audit logging
+- Modular backend organization
+
+**Tech:** React, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS
+
+### 📝 [Nova Journal — Blog Mongoose](https://blog-mongoose-one.vercel.app/)
+**A full-stack blogging and publishing platform**
+
+- Article creation and management
+- Categories, tags, and content organization
+- Search and publishing workflows
+- SEO metadata and sitemap support
+- Blog administration and moderation features
+
+**Tech:** React, Node.js, Express.js, MongoDB, REST APIs
+
 ### 🛒 Nova Cart
+**A full-stack e-commerce application**
 
-Full-stack e-commerce platform built with MERN stack featuring:
+- Product and variant management
+- Inventory and stock management
+- Shopping cart and e-commerce workflows
+- Administrative product management
 
-* User authentication
-* Admin dashboard
-* Product & order management
-* Responsive UI
+**Tech:** React, Node.js, Express.js, MongoDB
 
-### 📝 Blog Mongoose
+*Cloudinary integration and deployment are ongoing tasks.*
 
-Modern blogging platform with:
+### 🏗️ Mother Project — MERN with TypeScript
+**A TypeScript-based full-stack application**
 
-* Authentication system
-* Post creation & management
-* Comments & bookmarks
-* Category filtering
-* Admin moderation features
+- User management and soft deletion
+- JWT authentication with access and refresh tokens
+- Email OTP verification and password recovery
+- Role-based access control
+- Dockerized application services
 
----
+**Tech:** React, TypeScript, Node.js, Express.js, MongoDB, Redis, Docker
 
-## 🧰 Tech Stack
+## 🧰 Technical Skills
 
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* JWT Authentication
-* REST APIs
-* Tailwind CSS
+**Frontend**
+- JavaScript, TypeScript, React
+- HTML5, CSS3, Tailwind CSS
 
----
+**Backend**
+- Node.js, Express.js
+- REST API design and development
+- Authentication and authorization
+- JWT, access and refresh tokens
+- Middleware, error handling, and debugging
 
-## 💼 What I Can Help You With
+**Databases**
+- MongoDB, Mongoose, MySQL, Redis
 
-✔ MERN stack web applications
-✔ Bug fixing & debugging
-✔ API development & integration
-✔ Authentication systems
-✔ Admin dashboards
-✔ Full-stack SaaS-style applications
+**Tools & Workflow**
+- Git and GitHub
+- Postman
+- Docker
+- Vitest
+- Cloudinary
 
----
+## 💼 Areas I Can Contribute To
 
-## 🌐 Portfolio
+- Full-stack MERN application development
+- Node.js backend and REST API development
+- Authentication and role-based access control
+- Admin dashboards and reusable CRUD systems
+- Bug fixing, debugging, and application maintenance
+- Database integration and application architecture
 
-👉 Portfolio link: https://portfolio-h5k5.vercel.app
+## 🌐 Portfolio & Contact
 
----
+- **Portfolio:** https://portfolio-h5k5.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/bishwajit-paul-905410105
+- **Email:** paul.bishwajit09@gmail.com
+- **GitHub:** https://github.com/bishwajit1965
 
-## 📬 Let's Connect
-
-* LinkedIn: https://www.linkedin.com/in/bishwajit-paul-905410105
-* Email: paul.bishwajit09@gmail.com
-
----
-
-⭐ *“Clean code, real solutions, production-ready systems.”*
+⭐ *Building practical applications with clean, maintainable code.*
