@@ -75,7 +75,6 @@ Modern blogging platform with:
 ## 📬 Let's Connect
 
 * LinkedIn: https://www.linkedin.com/in/bishwajit-paul-905410105
-* Fiverr: https://www.fiverr.com/s/7Ye4PDW
 * Email: paul.bishwajit09@gmail.com
 
 ---
